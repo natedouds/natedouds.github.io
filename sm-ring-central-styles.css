@@ -1,10 +1,3 @@
 .NavigationBar_root {
   background-color: #306EBA !important;
 }
-
-#rc-widget {
-  right: unset !important;
-  left: 215px !important;
-  top:25px !important;
-  height:35px !important;
-}
