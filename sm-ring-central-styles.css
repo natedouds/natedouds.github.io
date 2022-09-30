@@ -2,7 +2,7 @@
   background-color: #306EBA !important;
 }
 
-.Adapter_root.Adapter_right {
+#rc-widget {
   right: unset !important;
   left: 215px !important;
   top:25px !important;
