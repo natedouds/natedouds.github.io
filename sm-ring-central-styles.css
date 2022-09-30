@@ -3,8 +3,8 @@
 }
 
 .Adapter_root.Adapter_right {
-  right: unset
-  left: 215px
-  top:25px
-  height:35px
+  right: unset !important;
+  left: 215px !important;
+  top:25px !important;
+  height:35px !important;
 }
