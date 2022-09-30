@@ -1,3 +1,10 @@
 .NavigationBar_root {
   background-color: #306EBA !important;
 }
+
+.Adapter_root.Adapter_right {
+  right: unset
+  left: 215px
+  top:25px
+  height:35px
+}
