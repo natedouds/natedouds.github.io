@@ -1,3 +1,6 @@
 .NavigationBar_root {
   background-color: #306EBA !important;
 }
+.TabNavigationView_tabContainer {
+  display: none;
+}
